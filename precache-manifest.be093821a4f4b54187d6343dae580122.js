@@ -28,28 +28,28 @@ self.__precacheManifest = [
     "url": "/static/media/Roboto-300.fc84e998.ttf"
   },
   {
-    "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
-    "url": "/static/media/Roboto-300.c73eb1ce.woff"
+    "revision": "35b07eb2f8711ae08d1f58c043880930",
+    "url": "/static/media/Roboto-400.35b07eb2.woff"
   },
   {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
     "url": "/static/media/Roboto-300.d26871e8.woff2"
   },
   {
-    "revision": "35b07eb2f8711ae08d1f58c043880930",
-    "url": "/static/media/Roboto-400.35b07eb2.woff"
-  },
-  {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
     "url": "/static/media/Roboto-400.73f0a88b.woff2"
+  },
+  {
+    "revision": "1d6594826615607f6dc860bb49258acb",
+    "url": "/static/media/Roboto-500.1d659482.woff"
   },
   {
     "revision": "90d1676003d9c28c04994c18bfd8b558",
     "url": "/static/media/Roboto-500.90d16760.woff2"
   },
   {
-    "revision": "1d6594826615607f6dc860bb49258acb",
-    "url": "/static/media/Roboto-500.1d659482.woff"
+    "revision": "3e1af3ef546b9e6ecef9f3ba197bf7d2",
+    "url": "/static/media/Roboto-400.3e1af3ef.ttf"
   },
   {
     "revision": "d08840599e05db7345652d3d417574a9",
@@ -60,6 +60,14 @@ self.__precacheManifest = [
     "url": "/static/media/Roboto-700.b52fac2b.woff2"
   },
   {
+    "revision": "ee7b96fa85d8fdb8c126409326ac2d2b",
+    "url": "/static/media/Roboto-700.ee7b96fa.ttf"
+  },
+  {
+    "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
+    "url": "/static/media/Roboto-300.c73eb1ce.woff"
+  },
+  {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
     "url": "/static/media/Roboto-700.50d75e48.woff"
   },
@@ -68,23 +76,15 @@ self.__precacheManifest = [
     "url": "/static/media/dxiconsmaterial.3cf7a87a.woff2"
   },
   {
-    "revision": "3e1af3ef546b9e6ecef9f3ba197bf7d2",
-    "url": "/static/media/Roboto-400.3e1af3ef.ttf"
+    "revision": "0e9706eb3e3959bb666ac25589194004",
+    "url": "/static/media/dxiconsmaterial.0e9706eb.ttf"
   },
   {
     "revision": "57c7dc446bffb93f57746d1d2a7e5a1b",
     "url": "/static/media/dxiconsmaterial.57c7dc44.woff"
   },
   {
-    "revision": "0e9706eb3e3959bb666ac25589194004",
-    "url": "/static/media/dxiconsmaterial.0e9706eb.ttf"
-  },
-  {
-    "revision": "ee7b96fa85d8fdb8c126409326ac2d2b",
-    "url": "/static/media/Roboto-700.ee7b96fa.ttf"
-  },
-  {
-    "revision": "36f35d49850f60b9df96c51bf394ce90",
+    "revision": "d654b8502551f9977df13bb6fed73fc4",
     "url": "/index.html"
   }
 ];
